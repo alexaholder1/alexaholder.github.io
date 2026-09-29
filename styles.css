@@ -255,9 +255,8 @@ body::-webkit-scrollbar {
 
 .project-table th:nth-child(1),
 .project-table td:nth-child(1),
-.project-table th:nth-child(3),
-.project-table td:nth-child(3) {
-    width: 60px;
+ {
+    width: 80%;
 }
 
 .cv-table {
