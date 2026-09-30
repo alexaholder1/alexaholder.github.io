@@ -79,6 +79,7 @@ body {
 
 p {
     color:#2f2f2f
+    line-height: 140%;
 }
 
 h1 {
@@ -246,33 +247,11 @@ body::-webkit-scrollbar {
 
 .project-table td,
 .project-table th {
-    border-bottom: 1px solid #2f2f2f;
+    border-bottom: 1px solid #9eadb2;
 }
 
 .project-table tr:last-child td{
     border-bottom: none;
-}
-
-.project-table th:nth-child(1),
-.project-table td:nth-child(1),
- {
-    width: 80%;
-}
-
-.cv-table {
-    color: #2f2f2f;
-}
-
-.cv-table td {
-    vertical-align: top;
-}
-
-.cv-table tr {
-    text-align: left;
-}
-
-.cv-table td:nth-child(1) {
-    width: 120px;
 }
 
 .header-table {
@@ -472,7 +451,7 @@ li {
     #menu-button,
     #close-button {
     -webkit-tap-highlight-color: transparent;
-    transition: opacity 0.15s ease;
+    transition: opacity 0.08s ease;
     }
 
     a:active,
