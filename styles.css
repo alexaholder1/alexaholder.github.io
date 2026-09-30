@@ -100,7 +100,7 @@ a {
 }
 
 .sidebar {
-  width: 300px;
+  width: 360px;
   flex-shrink: 0;
   position: sticky;
   top: 3rem;
