@@ -103,9 +103,8 @@ a {
   width: 360px;
   flex-shrink: 0;
   position: sticky;
-  top: 3rem;
   height: fit-content; 
-  padding-left: 25px;
+  padding-left: 40px;
 }
 
 .content-gallery {
